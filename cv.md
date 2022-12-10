@@ -17,3 +17,12 @@ __Skills__
 __Code examples__
 All I can it's 
 ```<h1>Hello, world</h1>```
+__Education__
+*Bachelor, Moscow state university of railway engineering
+ *Faculty of logistics
+
+__Experience__
+*I have big experince in project management in railway transport
+
+__Language__
+*English B2
