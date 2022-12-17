@@ -1,0 +1,52 @@
+.nav-list {
+    list-style: none;
+  }
+
+@font-face {
+    font-family: sans-serif;
+    src: url(assets\fonts\KronaOne-Regular.ttf);
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+.header{
+    border: 1px solid red;
+}
+
+.main{
+    border: 1px solid red;
+}
+
+.footer{
+    border: 1px solid red;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+.nav-list{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0 20px;
+    line-height: 50px;
+  }
+
+  .nav-link{
+    text-decoration: none;
+    color: tan;
+    transition: .3s;
+    
+
+
+  }
