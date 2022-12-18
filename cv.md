@@ -10,16 +10,18 @@ __Contact information:__
 
 __Summary__
 
-Now I'm working in project sphere in railway transport. My currently job is related with development of project documentation and the construction of railway infrastructure. I like my job because I can see results of my activities.
+Now I'm working in project sphere in railway transport. My currently job is related with development of project documentation and the construction of railway infrastructure.
+I started studying front-end because I want to develop in IT and find a remote job.
 
 __Skills__
 
-* I start to learn HTML and CSS.
+* I start to learn HTML and CSS
 * I was able to create a git repository (:
+* Now I try to make up CV
 
 __Code examples__
 
-All I can it's 
+All I can it's: 
 
 ```<h1>Hello, world</h1>```
 
