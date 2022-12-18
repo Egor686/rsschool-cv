@@ -21,7 +21,7 @@ __Skills__
 
 __Code examples__
 
-All I can it's 
+All I can it's: 
 
 ```<h1>Hello, world</h1>```
 
